@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <ms013g>
+            <Filename>Toxic-OS.Alpha-0.1-MM-20160627-OFFICIAL-ms013g.zip</Filename>
+            <NewRomUrl
+                id="newrom"
+                title="Latest Toxic-OS"
+                description="Download Latest Toxic OS Build">https://s.basketbuild.com/filedl/devs?dev=Adityaupreti&dl=Adityaupreti/Toxic-OS.Alpha-0.1-MM-20160625-UNOFFICIAL-ms013g.zip</NewRomUrl>
+            <RomUrl
+                id="rom"
+                title="Older Toxic OS"
+                description="Browse and download other Toxic OS Builds">https://s.basketbuild.com/filedl/devs?dev=Adityaupreti&dl=Adityaupreti/Toxic-OS.Alpha-0.1-MM-20160625-UNOFFICIAL-ms013g.zip</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Dynamic Gapps"
+                description="Download latest Dynamic G-apps by banks">https://www.androidfilehost.com/?w=files&amp;flid=41020</GappsUrl>
+              <MiscUrl
+                id="misc"
+                title="Patch"
+                description="Download Patch.zip">https://s.basketbuild.com/filedl/devs?dev=Adityaupreti&dl=Adityaupreti/Vendor_2016_flashable.zip</MiscUrl>
+	    </ms013g>
+   </Stable>
+</SlimOTA>
