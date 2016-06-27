@@ -18,7 +18,7 @@ device_name= ro.toxic.device
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
 #
-# Example with a property key 'ro.modversion' : Parse the date 20160515 from 'Toxic-OS.Alpha-0.1-MM-20160627-OFFICIAL-ms013g.zip'
+# Example with a property key 'ro.modversion' : Parse the date 20160515 from 'TOXIC-OS-OFFICIAL-v1.0-ms013g-20160627.zip'
 #
 # Version source: ro.modversion
 # Version delimiter: -
