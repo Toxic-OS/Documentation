@@ -1,1 +1,84 @@
-coming soon
+Title : [ROM][6.0.1_r46][Device Code Name][OFFICIAL,UNOFFICIAL] ★ Toxic OS ★ BETA ★ [DD/MM/YY]
+
+Thread 
+[CENTER][COLOR="DeepSkyBlue"][SIZE="7"]The Toxic OS Project[/SIZE][/COLOR]
+ 
+[CODE] 
+/* Disclaimer 
+* I am not responsible for bricked devices, dead SD cards, thermonuclear war, 
+* or you getting fired because the alarm app failed. Please do some research 
+* if you have any concerns about features included in this ROM
+* before flashing it! YOU are choosing to make these modifications, and if
+* you blame me in any way for what happens to your device, I will laugh at you.
+* BOOM! goes the dynamite
+*/
+[/CODE]
+[CODE] Your warranty will be void upon flashing this ROM[/CODE][/CENTER]
+
+[COLOR="DeepSkyBlue"][B][U][SIZE="4"]About Toxic OS:[/SIZE][/U][/B][/COLOR]
+Toxic OS is a custom Android ROM based on the latest Android Marshmallow (6.0.1_r46).  I Keep Sources Up-to date With Cyanogenmod This Rom is still in Alpha Stage and Im still adding features to it We Are OpenSource If You Want You Can join Toxic OS Team For Development Contact Me on Hangouts or Pm me
+
+[COLOR="DeepSkyBlue"][B][U][SIZE="4"]Credits:[/SIZE][/U][/B][/COLOR]
+
+Lead developer & Founder: [B]AdityaUpreti[/B]
+And Other Credits to
+Cyangenmod Team
+Slimrom team
+teamasek
+and Omni ROM
+
+[COLOR="DeepSkyBlue"][B][U][SIZE="4"]Features:[/SIZE][/U][/B][/COLOR]
+ - Expanded desktop
+-  Toxic OTA
+-  The Drill Logcat or gtfo in settings
+-  Toxic Settings 
+-  Toxic Logo in about device
+-  Stock Marshmallow aosp boot animation
+-  About Toxic OS in settings About device wit Extra Options
+-  Removed Lots Of cm Stuffs
+-  Toxic OS ASCII Art in Flashing
+-  Toxic Version in About device
+-  Cyanogenmod Theme Engine
+ - Lock screen weather
+ - Lock screen wallpaper changer
+ - Lock screen torch toggle
+ - Enable lock screen media art toggle
+ - Google search bar toggle
+ - Status bar brightness control
+ - Full volume rocker customization
+ - Increasing ring in phone and alarm
+ - Status bar header QS edit button
+ - OmniSwitch [COLOR="red"]Removed For Now[/COLOR]
+ - Quick unlock
+ - Settings dashboard organization
+ - Settings dashboard switches toggle
+ - Settings dashboard column configuration
+ - More rotation settings
+ - Wake on plug configuration
+ - Ambient display notification inversion toggle
+ - Heads up notifications toggle
+ - Force expanded notifications toggle
+ - Disable immersive messages toggle
+ - Phone number lookup
+ - Quick reply messaging
+ - Swipe to delete in messaging
+ - Even more!
+
+[COLOR="DeepSkyBlue"][B][U][SIZE="4"]Install Instructions:[/SIZE][/U][/B][/COLOR]
+*Download the ROM and GApps
+*Boot into Recovery
+*Wipe System, Data, Cache and Dalvik Cache
+*Flash the ROM and Flash Gapps 
+*Reboot 
+
+[COLOR="DeepSkyBlue"][B][U][SIZE="4"]Downloads:[/SIZE][/U][/B][/COLOR]
+[SIZE=3]
+[URL=Insert Link Here]ROM[/URL]
+[URL=http://download.dirtyunicorns.com/files/gapps/banks_gapps/]BaNkS GApps[/URL]
+[URL=opengapps.org]OpenGApps[/URL]
+[/SIZE]
+
+[U][B][COLOR="DeepSkyBlue"][SIZE="4"]See Our Website For more updates and info! [/B] [URL=https://Toxic-OS.github.io]Toxic Website[/URL][/SIZE][/COLOR][/U] 
+
+[U][B][COLOR="DeepSkyBlue"][SIZE="4"]Sources[/SIZE][/COLOR][/B][/U]
+[B][I][URL="https://github.com/Toxic-OS"]Toxic-OS Sources[/URL][/B][/I]
