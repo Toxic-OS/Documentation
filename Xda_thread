@@ -1,10 +1,9 @@
 Title : [ROM][6.0.1_r46][Device Code Name][OFFICIAL,UNOFFICIAL] ★ Toxic OS ★ BETA ★ [DD/MM/YY]
 
 Thread 
-[CENTER][COLOR="DeepSkyBlue"][SIZE="7"]The Toxic OS Project[/SIZE][/COLOR]
+[CENTER][COLOR="DeepSkyBlue"][SIZE="7"]Welcome To Toxic OS[/SIZE][/COLOR]
  
-[CODE] 
-/* Disclaimer 
+[CODE] /* Disclaimer 
 * I am not responsible for bricked devices, dead SD cards, thermonuclear war, 
 * or you getting fired because the alarm app failed. Please do some research 
 * if you have any concerns about features included in this ROM
@@ -16,7 +15,8 @@ Thread
 [CODE] Your warranty will be void upon flashing this ROM[/CODE][/CENTER]
 
 [COLOR="DeepSkyBlue"][B][U][SIZE="4"]About Toxic OS:[/SIZE][/U][/B][/COLOR]
-Toxic OS is a custom Android ROM based on the latest Android Marshmallow (6.0.1_r46).  I Keep Sources Up-to date With Cyanogenmod This Rom is still in Alpha Stage and Im still adding features to it We Are OpenSource If You Want You Can join Toxic OS Team For Development Contact Me on Hangouts or Pm me
+Toxic OS is a custom Android ROM based on the latest Android Marshmallow (6.0.1_r46). We Keep Sources Up-to date With Cyanogenmod and AOSP This Rom is still in Beta Stage, This rom is specially Made For performance and battery life. But We are Still adding lots of New Stuffs And We Are OpenSource If
+You Want You Can join Toxic OS Team For Development Contact Me on Hangouts or Pm me.
 
 [COLOR="DeepSkyBlue"][B][U][SIZE="4"]Credits:[/SIZE][/U][/B][/COLOR]
 
@@ -26,6 +26,7 @@ Cyangenmod Team
 Slimrom team
 teamasek
 and Omni ROM
+@jbw716 for his boot animation
 
 [COLOR="DeepSkyBlue"][B][U][SIZE="4"]Features:[/SIZE][/U][/B][/COLOR]
  - Expanded desktop
@@ -33,7 +34,7 @@ and Omni ROM
 -  The Drill Logcat or gtfo in settings
 -  Toxic Settings 
 -  Toxic Logo in about device
--  Stock Marshmallow aosp boot animation
+-  Toxic OS boot animation
 -  About Toxic OS in settings About device wit Extra Options
 -  Removed Lots Of cm Stuffs
 -  Toxic OS ASCII Art in Flashing
