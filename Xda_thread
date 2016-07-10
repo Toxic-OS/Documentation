@@ -25,7 +25,7 @@ And Other Credits to
 Cyangenmod Team
 Slimrom team
 teamasek
-and Omni ROM
+Omni ROM and AOKP Team
 @jbw716 for his boot animation
 
 [COLOR="DeepSkyBlue"][B][U][SIZE="4"]Features:[/SIZE][/U][/B][/COLOR]
@@ -37,8 +37,12 @@ and Omni ROM
 -  Status bar option in Toxic Settings
 -  Button Settings in Toxic Settings
 -  Removed Bug report of aosp
+-  System animations
+-  Toast animations
+-  Listview animations
+-  Listview interpolator
 -  Toxic Logo in about device
--  About Toxic OS in settings About device with Extra Options
+-  About Toxic OS in settings About device 
 -  Devices & maintainers name in About Toxic OS Settings
 -  Removed Lots Of cm Stuffs and from settings also
 -  Toxic OS ASCII Art in Flashing
